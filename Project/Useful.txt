@@ -1,0 +1,4 @@
+Need to mention in the project report:
+    1. what these graph nodes are, what do they represent in your specific project application? 
+     devices uh in a very abstract sense: The device could be a person, could be a human, could be a supercomput,
+     could be the smartphone of a human, smartwatch, light bulb, light bulb in your living room, etc.
